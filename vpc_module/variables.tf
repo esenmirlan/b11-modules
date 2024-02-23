@@ -2,6 +2,6 @@ variable "cidr_block" {
   
 }
 
-variable "vpc.tag" {
+variable "vpc_tag" {
   
 }
